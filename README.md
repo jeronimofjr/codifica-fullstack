@@ -1,4 +1,4 @@
-## Lista de sxercícios desenvolvidos no curso de Full Stack do projeto Codifica
+## Lista de exercícios desenvolvidos durante o curso de desenvolvimento Full Stack do projeto Codifica
 
 
 1. [Lista 01](https://github.com/jeronimofjr/codifica-fullstack/tree/main/lista-01)
