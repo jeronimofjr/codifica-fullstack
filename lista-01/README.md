@@ -5,17 +5,14 @@
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição na linguagem de programação JavaScript.
 
   
-  
+
+* Para a execução dos arquivos é necessária a instalação do **NodeJS** ([NodeJS instalação](https://nodejs.org/en/download)).  
 
 ### Execução dos arquivos
 
-  
-
 Com o **git** ([git instalação](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)) instalado na máquina, use o terminal do computador e dê o seguinte comando para fazer o download do projeto:
-
   
   
-
 <!--MAIN_BEGIN-->
 
 ```bash
